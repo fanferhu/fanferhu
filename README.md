@@ -1,8 +1,11 @@
-
 👋 Hi, I'm <strong>Yifan Hu(胡一凡)</strong>, a graduate student from the School of Artificial Intelligence and Automation at Huazhong University of Science and Technology. 
+
 🧑‍💻 I am majored in artificial intelligence. Now I‘m a member of the Intelligent Manufacturing and Data Science Laboratory, under the guidance of Professor Zhang Haitao.
+
 🧐 I am interested in large language model intelligent agents (LLM-Agent) and Multi-Sensor Fusion.
+
 🥰 You can go to my own blog website [fanfer.top](https://fanfer.fun)
+
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 Get the First Prize Scholarship of Huawei Cup.
 - *2023.06*: &nbsp;🎉🎉 Graduated with honors as an outstanding graduate from the Software Engineering program at Wuhan University's School of Computer Science.
